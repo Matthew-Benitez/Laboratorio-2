@@ -1,1 +1,24 @@
 # Laboratorio-2
+
+1. OBJETIVOS
+
+
+2. MARCO TEÓRICO 
+
+
+3. DIAGRAMAS
+
+
+4. LISTA DE COMPONENTES
+
+
+
+5. EXPLICACIÓN 
+
+
+
+6. CONCLUSIONES
+
+
+
+7. BIBLIOGRAFÍA
