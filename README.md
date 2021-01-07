@@ -47,3 +47,19 @@
 *Tabla 4.1*
 
 5. EXPLICACIÓN
+
+   5. EXPLICACIÓN
+
+   5.1. Procedimiento
+
+     - Ingresar a la plataforma *Tinkercad* y crear un nuevo circuito, en el cual se escogen los componentes listados anteriormente.
+     - Conectar el primer suministro de energía de 18 voltios a un extremo de la placa de pruebas (*protoboard*) uniendo respectivamente los polos positivos y negativos de los suministros y la placa; y de la misma manera, se conecta la otra fuente de voltaje de 5 voltios pero al otro extremo de la placa.
+     - A continuación se conecta en escalera las cinco resistencias, generándose así tres mallas.
+     - Para finalizar la creación del circuito planteado, se conecta los suministros de energía a cada lado del circuito en escalera con sus respectivas terminales (la fuente de 18 voltios se conecta en serie con la primera malla y la fuente de 5 voltios con la tercera malla).
+     
+
+6. CONCLUSIONES
+
+7. BIBLIOGRAFÍA
+
+
