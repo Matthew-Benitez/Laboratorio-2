@@ -45,3 +45,5 @@
 ![image](https://user-images.githubusercontent.com/75439689/103948156-52296e80-5107-11eb-96e9-2984d64dbf5a.png)
 
 *Tabla 4.1*
+
+5. EXPLICACIÓN
