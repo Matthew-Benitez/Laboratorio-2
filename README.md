@@ -65,9 +65,11 @@
      
      *Tabla 5.2.1.*
      
-   5.3. Comparación de los valores de la *tabla 5.2.1.*
+   5.3. Comparación de los valores de la *tabla 5.2.1.* y realice conclusiones.
    
-   Los resultados obtenidos en la tabla fueron recogidos de manera analítica y experimental, y se pudo observar que estas corrientes de malla no difieren exponencialmente una de otra, más bien sus resultados son idénticos si es que se utiliza el método de redondeo. Sin embargo, resalta en la tabla, en la parte de resultados analíticos, que estos datos tienen más cifras significativas que la parte de resultados experimentados, por lo que, como resolución, los resultados analíticos son más acertados que los que son parte de los simulados.
+   Los resultados obtenidos en la tabla fueron recogidos de manera analítica y experimental, y se pudo observar que estas corrientes de malla no difieren exponencialmente una de otra, más bien sus resultados son idénticos si es que se utiliza el método de redondeo. 
+   
+   Sin embargo, resalta en la tabla, en la parte de resultados analíticos, que estos datos tienen más cifras significativas que la parte de resultados experimentados, por lo que, como resolución, los resultados analíticos son más acertados que los que son parte de los simulados.
    
    Para finalizar, los datos fueron comparados mediante los cálculos de errores que se muestran a continuación. Y se denota que el error más grande es por parte del resultado experimental de la Malla 1.
    
