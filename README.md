@@ -39,3 +39,9 @@
    ![image](https://user-images.githubusercontent.com/75439689/103947906-d92a1700-5106-11eb-963e-a9e451553322.png)
    
    *Figura 3.4*
+
+4. LISTA DE COMPONENTES
+
+![image](https://user-images.githubusercontent.com/75439689/103948156-52296e80-5107-11eb-96e9-2984d64dbf5a.png)
+
+*Tabla 4.1*
