@@ -68,7 +68,7 @@
      
      Para la obtención de los resultados primero se determinaron las mallas existentes en el circuito, posteriormente, se basó en dos partes, los resultados analíticos, los cuales son hechos a mano, y los resultados experimentales, los cuales son tomados por parte del simulador con herramientas digitales (amperímetro). Obteniendo así los resultados descritos en la *tabla 5.2.1.*
      
-     ![image](https://user-images.githubusercontent.com/75439689/103953561-5908af00-5110-11eb-9d0a-9dc6423a81a1.png)
+     ![image](https://user-images.githubusercontent.com/75439689/104032521-4471f880-519c-11eb-9dd8-8612e2e3d8aa.png)
      
      *Tabla 5.2.1.*
      
