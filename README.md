@@ -72,7 +72,7 @@
      
      *Tabla 5.2.1.*
      
-   5.3. Comparación de los valores de la *tabla 5.2.1.* y realice conclusiones.
+   5.3. Comparación de los valores de la *tabla 5.2.1.* y conclusión de la comparación.
    
    Los resultados obtenidos en la tabla fueron recogidos de manera analítica y experimental, y se pudo observar que estas corrientes de malla no difieren exponencialmente una de otra, más bien sus resultados son idénticos si es que se utiliza el método de redondeo. 
    
