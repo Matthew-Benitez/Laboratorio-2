@@ -2,7 +2,7 @@
   1. OBJETIVOS
 - Objetivo General:
    
-   - Aplicar el método de corrientes de malla y aplicarlo para analizar un circuito y comprobar que el método es efectivo y eficiente.
+   - Aplicar el método de corrientes de malla para analizar un circuito y comprobar que el método es efectivo y eficiente.
    
 - Objetivos Específicos:
  
@@ -87,6 +87,14 @@
      
 6. CONCLUSIONES
 
+   - La aplicación del método de las corrientes por mallas, permite calcular de manera rápida y práctica las diversas corrientes que se encuentran en un circuito. Esto debido a que únicamente se emplea la segunda Ley de Kirchhoff (Ley de voltajes) en cada malla para determinar ecuaciones cuyas incógnitas sean las corrientes de dichas mallas. Y posteriormente se obtiene los valores de las corrientes resolviendo el sistema mediante uso de calculadora o algún software matemático que permita resolver sistemas de ecuaciones.
+   
+   - Es necesario cumplir estrictamente con los lineamientos que plantea este método de análisis, ya que el sistema de ecuaciones puede verse afectado debido a un signo mal puesto en una incógnita o por una ecuación mal planteada, lo que llevaría a un cálculo erróneo de las intensidades de corriente.
+   
+   - Para medir la intensidad de corriente de cada malla en el simulador, es necesario tomar como referencia la rama la cual únicamente recibe la corriente de la malla, es decir, el amperímetro debe conectarse en serie con la rama que tenga solamente la corriente de la malla, mas no se debe conectar a las ramas que reciban dos corrientes de dos mallas, ya que la corriente que se mediría allí sería el resultado de sumar algebraicamente ambas corrientes.
+   
+
 7. BIBLIOGRAFÍA
 
+   - Floyd, T. L. (2007). Principios de circuitos eléctricos (Octava ed.).
 
